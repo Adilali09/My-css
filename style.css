@@ -1,0 +1,16 @@
+ #first{
+    background-color: aqua;
+
+}
+
+#second {
+
+    background-color: red;
+    color: brown;
+    background-image:url('index.png.jpg');
+}
+
+.bg-blue {
+    background-color: blue;
+    color: white;
+}
